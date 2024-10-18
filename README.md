@@ -1,8 +1,3 @@
-- 👋 Hi, I’m @bhalleaheesha
-- 👀 I’m interested in AI-ML dvelopement 
-- 🌱 I’m currently learning Python in depth
+AI/ML Enthusiast | Python Developer | SQL operator
 
-<!---
-bhalleaheesha/bhalleaheesha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a passionate developer with a strong foundation in Python, AI/ML, and web development. I hold a Bachelor's in Computer Applications and am currently pursuing my MCA, with expertise in frameworks like Django, Pandas, and NumPy. I have experience leading teams as an intern, working on AI research, and developing projects like ATM Simulation and Pizza Billing systems. Constantly learning and growing, I aim to contribute to open-source projects and build innovative solutions.
