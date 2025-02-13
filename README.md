@@ -11,7 +11,7 @@ I specialize in **Data Analytics, SQL, Python (Pandas, NumPy, Django), and Busin
 - **Certifications:** Google Data Analytics, IBM Data Science, Cisco Data Analytics  
 
 📫 **Let's Connect!**  
-- LinkedIn: [ [Your LinkedIn Profile](#)  ](https://www.linkedin.com/in/aheesha-b-p-560049296/)
-- GitHub: [[Your GitHub Profile](#)  ](https://github.com/bhalleaheesha)
+- LinkedIn: https://www.linkedin.com/in/aheesha-b-p-560049296/
+- GitHub:https://github.com/bhalleaheesha
 
 ⭐ **Feel free to explore my repositories and collaborate!**  
