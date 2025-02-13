@@ -12,6 +12,6 @@ I specialize in **Data Analytics, SQL, Python (Pandas, NumPy, Django), and Busin
 
 📫 **Let's Connect!**  
 - LinkedIn: https://www.linkedin.com/in/aheesha-b-p-560049296/
-- GitHub:https://github.com/bhalleaheesha
+- GitHub: https://github.com/bhalleaheesha
 
 ⭐ **Feel free to explore my repositories and collaborate!**  
